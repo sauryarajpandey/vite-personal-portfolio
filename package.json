@@ -2,12 +2,13 @@
   "name": "saurya",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://sauryarajpandey.github.io/gh-pages",
   "type": "module",
   "scripts": {
-    "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "vite build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
