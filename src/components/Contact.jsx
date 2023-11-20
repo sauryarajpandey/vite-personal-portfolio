@@ -198,13 +198,7 @@ const Contact = () => {
         </form>
       </motion.div>
       <div>
-        <iframe
-          width="380"
-          height="316"
-          id="gmap_canvas"
-          style={{ marginTop: "70px" }}
-          src="https://maps.google.com/maps?width=380&amp;height=316&amp;hl=en&amp;q=Jagannath%20Temple%20Mahankal,%20Golfutar%20Main%20Road,%20Hattigauda,%20Buddhanilkantha%20Kathmandu+(Me)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"
-        ></iframe>
+
         <br></br>
         <h1 style={{ marginBottom: "5px" }}>
           <b>Socials</b>
